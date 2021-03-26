@@ -6,7 +6,7 @@
   + Math and Problem Solving
 
 - 👨‍💻Programming Languages I Know......
-  + Javascript
+  + Javascript and TypeScript
   + Java
   + C++ (kinda)
   
