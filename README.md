@@ -7,7 +7,7 @@
 </h1>
 
 - #### 🏓 Hobbies 🎉
-  + ##### Reading __(My favourite Book is To Kill A MockingBird by Harper Lee)__
+  + ##### Reading _(My favourite Book is To Kill A MockingBird by Harper Lee)_
   + ##### Chess
   + ##### Math and Problem Solving
 <br>
