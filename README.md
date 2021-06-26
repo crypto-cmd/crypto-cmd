@@ -21,5 +21,5 @@
 <br>
 
 - #### 🏫 I’m currently learning..............
-  + ##### Machine Learning
+  + ##### Mobile Development ( Android )
 
