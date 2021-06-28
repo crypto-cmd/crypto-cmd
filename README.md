@@ -1,4 +1,4 @@
-<h2 align="center" style="font-family:'Nunito',sanserif;letter-spacing:0.09ch;">�👋🏾Hi! I'm <span style="color:#80deea;">😀crypto-cmd😀</span> I'm 17.
+<h2 align="center" style="font-family:'Nunito',sanserif;letter-spacing:0.09ch;">👋🏾Hi! I'm <span style="color:#80deea;">😀crypto-cmd😀</span> I'm 17.
 </h2>
 <h1 align="center">
 
