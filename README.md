@@ -1,4 +1,4 @@
-<h2 align="center" style="font-family:'Nunito',sanserif;letter-spacing:0.09ch;">👋🏾Hi! I'm <span style="color:#80deea;">😀crypto-cmd😀</span> I'm 17.
+<h2 align="center" style="font-family:'Nunito',sanserif;letter-spacing:0.09ch;">👋🏾Hi! I'm <span style="color:#80deea;">😀crypto-cmd😀</span> I'm 18.
 </h2>
 <h1 align="center">
 
@@ -28,6 +28,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 <br>
+
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=crypto_cmd" width="400"/>
+</a>
 
 - #### 🏫 I’m currently learning..............
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
