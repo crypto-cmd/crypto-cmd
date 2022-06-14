@@ -33,6 +33,7 @@
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=crypto_cmd" width="400"/>
 </a>
 
-- #### 🏫 I’m currently learning..............
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- #### 📝 Currently Working on..............
+  + ##### A programming Language called pseudoC
+  + ##### A machine learning library
+     + ##### Neural Network for Chess
