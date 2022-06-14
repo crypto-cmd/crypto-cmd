@@ -7,6 +7,12 @@
 
 </h1>
 
+- #### 📝 Currently Working on..............
+  + ##### A programming Language called pseudoC
+  + ##### A machine learning library
+     + ##### Neural Network for Chess
+<br>
+
 - #### 🏓 Hobbies 🎉
   + ##### Reading
   + ##### Chess
@@ -28,12 +34,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 <br>
-
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=crypto_cmd" width="400"/>
-</a>
-
-- #### 📝 Currently Working on..............
-  + ##### A programming Language called pseudoC
-  + ##### A machine learning library
-     + ##### Neural Network for Chess
