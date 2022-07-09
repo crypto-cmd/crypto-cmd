@@ -18,8 +18,10 @@
   + ##### Chess
   + ##### Math and Problem Solving
 <br>
+
 - #### Connect 🔗
   + ##### Discord: crypto-cmd#7149
+<br>
 
 - #### 👨‍💻Programming Languages and Technologies I Know......
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
